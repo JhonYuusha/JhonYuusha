@@ -7,7 +7,7 @@ I enjoy turning ideas into functional, clean, and well-structured projects.
 - 🎯 Focused on **Front-end development** and **Discord bot automation**  
 - 💬 Working with **HTML, CSS, JavaScript, TypeScript** and **PostgreSQL/MySQL**  
 - 🌱 Always learning and improving with every project  
-- 🧠 Creator of projects like [Jhony's Pizzaria](#) and custom Discord bots  
+- 🧠 Creator of projects like [Jhony's Pizzeria](#) and custom Discord bots  
 
 ### ⚙️ Tech stack
 <div align="left">
@@ -21,7 +21,7 @@ I enjoy turning ideas into functional, clean, and well-structured projects.
 </div>
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovictor)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Check out João Victor’s profile on LinkedIn https://br.linkedin.com/in/jo%C3%A3o-victor-a2917a318)  
 📫 **Contact:** jovitorgsilva@gmail.com
 
 ---
